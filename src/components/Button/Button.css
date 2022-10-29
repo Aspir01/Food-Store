@@ -1,0 +1,30 @@
+.btn {
+    width: 150px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    border: 4px solid #000000;
+    border-radius: 15px;
+    margin: 0px 15px;
+    color: white;
+}
+
+.btn.add {
+    background-color: #002175;
+}
+
+.btn.remove {
+    background-color: #e90000;
+}
+
+.btn.checkout {
+    background-color: #199d19;
+}
+
+.btn:hover {
+    background-color: #393535;
+}
+
+.btn:active {
+    background-color: #000000;
+}
