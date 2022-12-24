@@ -1,5 +1,5 @@
+import React, { useState } from 'react';
 import './App.css';
-import { useState } from 'react';
 import Card from './components/Card/Card';
 import Cart from "./components/Cart/Cart"
 const { getData } = require("./db/db")

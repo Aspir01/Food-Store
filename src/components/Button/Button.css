@@ -21,6 +21,10 @@
     background-color: #199d19;
 }
 
+.btn.false {
+    display: none;
+}
+
 .btn:hover {
     background-color: #393535;
 }

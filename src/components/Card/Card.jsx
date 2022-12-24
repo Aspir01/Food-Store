@@ -1,5 +1,4 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
 import Button from "../Button/Button";
 import "./Card.css"
 
@@ -41,5 +40,4 @@ const Card = ({ food, onAdd, onRemove, }) => {
 }
 
 export default Card
-
 
